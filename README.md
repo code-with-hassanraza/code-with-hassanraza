@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Hassan 👋
+# Hey, I'm Hassan Raza 👋
 
 ### 🔐 Making the Cloud a Secure and Better Place
 
