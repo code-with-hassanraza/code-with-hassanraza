@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hassan--raza--me.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://hassan-raza-me.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Hassan_Raza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-raza-5a2749322)
-[![Email](https://img.shields.io/badge/Email-heyyy.hassan0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyyy.hassan0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mhassanraza.cloud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhassanraza.cloud@gmail.com)
 
 </div>
 
